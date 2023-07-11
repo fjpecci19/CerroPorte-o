@@ -12,7 +12,7 @@ export default function Navbar() {
                     </Link>
                 </div>
                 <div className='text-2xl cursor-pointer flex items-center text-white font-[Arial] hover:text-blue-500'>
-                    <Link href={"/Arqueros"}>Arqueros</Link>
+                    <Link href={"Arqueros"}>Arqueros</Link>
                 </div>
                 <div className='text-2xl cursor-pointer flex items-center text-white font-[Arial] hover:text-blue-500'>
                     <Link href={"Defensores"}>Defensores</Link>
