@@ -23,9 +23,6 @@ export default function Navbar() {
                 <div className='text-2xl cursor-pointer flex items-center text-white font-[Arial] hover:text-blue-500'>
                     <Link href={"Delanteros"}>Delanteros</Link>
                 </div>
-                <div className='text-2xl cursor-pointer flex items-center text-white font-[Arial] hover:text-blue-500'>
-                    <Link href={"DT"}>Director Técnico</Link>
-                </div>
             </div>
         </header>
     )

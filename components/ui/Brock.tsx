@@ -9,7 +9,7 @@ const Brock: React.FC = () => {
                 <img className='w-12 h-9' src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/200px-Flag_of_Brazil.svg.png" alt="" />
             </div>
             <div className="px-6 py-4">
-                <div className="">26 de Octubre de 1995</div>
+                <div className="">6 de mayo de 1991</div>
             </div>
         </div>
     );
