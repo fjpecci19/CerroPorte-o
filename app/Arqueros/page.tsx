@@ -1,7 +1,7 @@
-import Card from "@/components/ui/Card"
+import Jean from "@/components/ui/Jean"
 
 export default function Arqueros() {
     return (
-        <Card/>
+        <Jean/>
     )
 }
